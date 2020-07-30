@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AbstractFactory/.vs/AbstractFactory
+/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1
+/AbstractFactory/AbstractFactory/obj
+/Adapter/.vs/Adapter
+/Adapter/Adapter/bin/Debug/netcoreapp2.1
+/Adapter/Adapter/obj
+/Bridge/.vs/Bridge
+/Bridge/Bridge/bin/Debug/netcoreapp2.1
+/Bridge/Bridge/obj
+/Builder/.vs/Builder
+/Builder/Builder/bin/Debug/netcoreapp2.1
+/Builder/Builder/obj
+/Factory/.vs/Factory/v15
+/Factory/Factory/bin/Debug/netcoreapp2.1
+/Factory/Factory/obj
+/Singleton/.vs/Singleton
+/Singleton/Singleton/bin/Debug/netcoreapp2.1
+/Singleton/Singleton/obj
